@@ -4,7 +4,7 @@ Una pequeña aplicación creada con React para buscar Gifs
 
 En este proyecto se utilizo:
 
--Custom Hooks
+-Custom Hooks <br>
 -Fetch hacia un API
 -Comunicación entre componentes
 -Clases de CSS
